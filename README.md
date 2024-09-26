@@ -4,7 +4,7 @@ I had a postdoctoral research experience (University of Messina, 2020-2022) in C
 
 :email: luca.amata@scuola.istruzione.it
 
-:computer: http://mat521.unime.it/amata
+:computer: http://lucamata.github.io
 
 Main reasearch interests
 ==========
