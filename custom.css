@@ -13,7 +13,7 @@ body {
 
 body:before {
     display: none;
-    content: url('CopertinaAC.png');
+    content: url('../images/CopertinaAC.png');
 }
 
 .pic {
@@ -51,7 +51,7 @@ hr {
 	/*width: 100%;*/
 	/*font-weight: bold;*/
 	/*height: 1%;
-	background-image: url('./CopertinaAC_5.png');
+	background-image: url('../images/CopertinaAC_5.png');
 	background-size: cover;
     background-repeat: no-repeat;
 	background-position: center center;
@@ -72,7 +72,7 @@ hr {
 	/*width: 100%;*/
 	/*font-weight: bold;*/
 	height: 15%;
-	background-image: url('CopertinaAC.png');
+	background-image: url('../images/CopertinaAC.png');
 	/*-webkit-transform:translate3d(0,0,0)*/
 	background-size: cover;
     background-repeat: no-repeat;
